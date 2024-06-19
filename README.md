@@ -1,4 +1,4 @@
-Penjelasan
+# Penjelasan
 1. Download dan Load Data: Data diunduh dari URL dan disimpan dalam DataFrame.
 2. Cek dan Rename Kolom: Nama kolom diperiksa dan diubah menjadi Sales dan Advertising.
 3. Prepare Data: Data dipisahkan menjadi fitur (Sales) dan target (Advertising).
@@ -7,11 +7,11 @@ Penjelasan
 6. Evaluasi Model: Model dievaluasi menggunakan RMSE dan R2 score.
 7. Prediksi Biaya Iklan: Prediksi biaya iklan untuk sales 50, 100, dan 150 dibuat.
 8. Plot Hasil Regresi: Hasil regresi diplot untuk visualisasi.
-Data
+# Data
 Dataset yang digunakan dalam proyek Dataset ini terdiri dari dua kolom:
 1. Penjualan: Penjualan dalam juta dolar
 2. Periklanan: Biaya periklanan dalam juta dolar
-Hasil
+# Hasil
 Kinerja model dievaluasi menggunakan RMSE dan skor R². Biaya periklanan yang diprediksi untuk nilai penjualan 50, 100, dan 150 adalah sebagai berikut:
 1. Biaya periklanan yang diprediksi untuk penjualan 50: $X juta
 2. Biaya periklanan yang diprediksi untuk penjualan 100: $Y juta
